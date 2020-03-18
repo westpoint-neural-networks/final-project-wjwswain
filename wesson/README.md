@@ -4,4 +4,4 @@
 a reasonable time scale
 * Docs in "wesson" directory
 
-![Wesson Proposed Logo](wesson/wesson_graphic.png)
+![Wesson Proposed Logo](wesson_graphic.png)
