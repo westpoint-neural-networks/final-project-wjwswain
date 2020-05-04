@@ -1,3 +1,4 @@
+<div align="center">
 # Applied Neural Networks Final Project
 
 ## Dr Watson: A Study in Scraping
@@ -21,3 +22,6 @@ learning to vertically stabilize a pendulum offline
 * Docs in "pendulum" directory
 
 ![Rotary Inverted Pendulum](pendulum/pendulum_graphic.png)
+</div>
+
+<!-- https://help.smash.gg/en/articles/1987102-customizing-text-with-markdown -->
