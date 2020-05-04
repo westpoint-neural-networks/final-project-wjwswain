@@ -11,7 +11,7 @@ animated as Dr Watson.
 * 'text_gen' = Sherlock Holmes corpus, language model code
 * 'voice' = voice cloning code, voice clone embedding
 * 'puppetry' = deepfake code
-* 'samples' = generated examples
+* 'samples' = generated examples, training samples
 
 </div>
 
