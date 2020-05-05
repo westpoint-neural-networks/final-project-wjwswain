@@ -14,7 +14,7 @@ animated as Dr Watson.
 	* "The Reichenback Props"
 </div>
 
-![Wesson Proposed Logo](drWatson/watson_graphic.jpg)
+![Watson Default Image](drWatson/watson_graphic.png)
 
 <div align="left">
 

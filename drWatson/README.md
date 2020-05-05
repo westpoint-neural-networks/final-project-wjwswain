@@ -17,7 +17,7 @@ animated as Dr Watson.
 
 <div align="center">
 
-![Wesson Proposed Logo](watson_graphic.jpg)
+![Watson Default Image](watson_graphic.png)
 
 </div>
 
