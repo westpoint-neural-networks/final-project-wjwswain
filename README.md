@@ -10,8 +10,7 @@ Generated text then fed as input to voice clone and audio \
 animated as Dr Watson.
 * Docs in "drWatson" directory
 * Alternate Subtitles:
-	* "Hound of the Batch's Files"
-	* "The Reichenback Props"
+	* "The ReichenBack Props"
 </div>
 
 ![Watson Default Image](drWatson/watson_graphic.png)
