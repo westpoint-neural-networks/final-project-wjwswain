@@ -4,10 +4,7 @@
 <div align="left">
 
 ## Dr Watson: A Study in Scraping
-* Project Goal: Train a BERT language model to generate \
-Doylesque text using open-domain Sherlock Holmes stories. \
-Generated text then fed as input to voice clone and audio \
-animated as Dr Watson.
+* Project Goal: Train a BERT-style language model to generate Doylesque text using open-domain Sherlock Holmes stories. Generated text then fed as input to voice clone and audio animated as Dr Watson.
 * Docs in "drWatson" directory
 * Alternate Subtitles:
 	* "The ReichenBack Props"
@@ -18,8 +15,7 @@ animated as Dr Watson.
 <div align="left">
 
 ## Old Project: Rotary Inverted Pendulum
-* Project Goal: Train a neural network with reinforcement \
-learning to vertically stabilize a pendulum offline
+* Project Goal: Train a neural network with reinforcement learning to vertically stabilize a pendulum offline
 * Project retired after a global health crisis
 * Docs in "pendulum" directory
 </div>

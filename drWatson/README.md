@@ -1,7 +1,7 @@
 <div align="left">
 
 # Dr Watson: A Study in Scraping
-* Project Goal: Train a BERT-style language model to generate Doylesque text using open-domain Sherlock Holmes stories. Generated text then fed as input to voice clone and audio animated as Dr Watson.
+* **Project Goal**: Train a BERT-style language model to generate Doylesque text using open-domain Sherlock Holmes stories. Generated text then fed as input to voice clone and audio animated as Dr Watson.
 
 ## Directory Structure:
 * 'motion_model' = first-order motion model code
